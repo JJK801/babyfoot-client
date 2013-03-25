@@ -22,16 +22,15 @@ log babyfoot match score
 
 ### Menu
 
-1vs1 : Start a new 1vs1 game
-2vs2 : Start a new 2vs2 game
-Join match : join a currently played match
-See previous match : see last score
-Stats : See all stats
-Configure : Add players
+* 1vs1 : Start a new 1vs1 game
+* 2vs2 : Start a new 2vs2 game
+* Join match : join a currently played match
+* See previous match : see last score
+* Stats : See all stats
+* Configure : Add players
 
 ### Game Screen
 
-Select name for each player
-Button for start/end game and pause timing
-
-Add a goal : clic on a name to select AND on a goal
+* Select name for each player
+* Button for start/end game and pause timing
+* Add a goal : clic on a name to select AND on a goal
