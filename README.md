@@ -6,9 +6,9 @@ log babyfoot match score
 
 ## technical
 
-* an angular.js front ?
+* an Angular.js front ?
 
-* API REST (nodejs or sf2 ?)
+* API REST (Node.js + Express3 + Socket.io(?) or Symfony2 + FosRestBundle + NelmioApiDocBundle ?)
 
 * BDD (mysql or mongodb ?)
 
